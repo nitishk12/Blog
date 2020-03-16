@@ -1,3 +1,24 @@
+# NOTES-APP-REDUX
+
+## OverView
+Notes App an an application in which allows us to register into  the app. As the user Registers , then  he can  create a note along with  the  category  to which  this  note belongs. He can view the  note details and also delete the note.The above project is done along with user authentication.
+
+### Dependencies and Installation
+   1. react-app npx create-react-app my-app<br/>
+   2. axios npm install axios<br/>
+   3. react-router-dom npm install --save react-router-dom<br/>
+   4. redux npm install redux<br/>
+   5. react-redux npm install react-redux<br/>
+   6. react-bootstrap npm install bootstarp react-bootstrap<br/>
+   7. redux-thunk npm install redux-thunk<br/>
+   
+ # Usage
+   * Download the entire source code.<br/>
+   * Create a react app<br/>
+   * Copy the code and paste in that react app <br/>
+   * Install the dependencies and run the code<br/>
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +87,10 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+# Author 
+Nitish Kumar
+
+# Support
+Give a ⭐️ if this project has helped you.
