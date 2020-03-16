@@ -1,7 +1,4 @@
-# NOTES-APP-REDUX
-
-## OverView
-Notes App an an application in which allows us to register into  the app. As the user Registers , then  he can  create a note along with  the  category  to which  this  note belongs. He can view the  note details and also delete the note.The above project is done along with user authentication.
+# BLOG
 
 ### Dependencies and Installation
    1. react-app npx create-react-app my-app<br/>
